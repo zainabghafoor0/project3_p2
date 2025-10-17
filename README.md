@@ -1,4 +1,8 @@
 # Huffman Coding Project — Phase 2
+**Name:** Zainab Ghafoor  
+**ID:** 008259427  
+**GitHub repository link:** [[https://github.com/zainabghafoor0/project3_p2.git]((https://github.com/zainabghafoor0/project3_p2.git))]
+
 
 ## Overview
 This phase extends **Part 1** of the Huffman project by adding two new data structures and producing measurable artifacts that will later support encoding.
